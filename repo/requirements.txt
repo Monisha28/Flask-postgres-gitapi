@@ -40,7 +40,7 @@ imutils==0.5.3
 isort==4.3.21
 itsdangerous==1.1.0
 jdcal==1.4.1
-Jinja2==2.10.1
+Jinja2==2.11.3
 joblib==0.14.1
 Keras==2.3.1
 Keras-Applications==1.0.8
