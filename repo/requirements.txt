@@ -56,7 +56,7 @@ mccabe==0.6.1
 mtcnn==0.1.0
 numpy==1.17.1
 oauthlib==3.1.0
-opencv-contrib-python==4.1.2.30
+opencv-contrib-python==4.2.0.32
 opencv-python==4.1.2.30
 openpyxl==3.0.3
 opt-einsum==3.1.0
